@@ -1,0 +1,25 @@
+let name = "Gourav Sahu";
+let school = "Khalsa Public School";
+let grade = "B";
+let section = "A";
+let rollno = 06;
+let physics_marks =80;
+let chemistry_marks = 90;
+let maths_marks = 85;
+
+console.log("Name :",name);
+console.log("---------------");
+console.log("School :",school);
+console.log("---------------");
+console.log("Grade :", grade);
+console.log("---------------");
+console.log("Section :",section);
+console.log("---------------");
+console.log("Rollno :",rollno);
+console.log("---------------");
+console.log("MARKS OBTAINED BY STUDENT");
+console.log("---------------");
+console.log("Physics :",physics_marks);
+console.log("Chemsitry :",chemistry_marks);
+console.log("Maths :",maths_marks);
+console.log("---------------");
